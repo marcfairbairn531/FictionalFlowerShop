@@ -1,0 +1,140 @@
+﻿body {
+	font-family:arial;
+	font-size:14pt;
+	font-style:normal;
+	background: ivory;
+}
+
+div.container {
+	width: 100%;
+	margin: auto;
+}
+
+div.top {
+	width: 100%;
+	font-style:normal;
+	border-collapse: collapse;	
+}
+
+div.logo {
+	width: 170px;
+	padding: 10px;
+	height: 120px;
+	float: left;
+	clear: both;
+}
+
+div.title {
+	padding: 10px;
+	text-align: center;
+	font-size: 24px;
+	color: teal;
+	width: 780px;
+	height: 120px;
+}	
+	
+div.bottom {
+	width: 100%;
+	border-collapse: collapse;
+	font-style:normal;
+}
+
+div.part1 {
+	width: 170px;
+	height: 400px;
+	padding-top: 40px;
+	padding: 15px;
+	padding-bottom: 18px;
+	float: left;
+	font-size: 12pt;
+	border: 1px solid aliceblue;
+	background: aliceblue;
+}
+
+div.part2 {
+	padding: 10px;
+	padding-bottom: 23px;
+	width: 600px;
+	height: 400px;
+	float: left;
+	border: 1px solid lemonchiffon;
+	background: lemonchiffon;
+}
+
+div.part3 {
+	width: 170px;
+	height: 400px;
+	padding: 15px;
+	padding-bottom: 18px;
+	align: center;
+	float: left;
+	border: 1px aliceblue;
+	background: aliceblue;
+}
+
+div.myimages {
+	width: 150px;
+	height: 100px;
+	padding-left: 30px;
+}
+	
+	
+div.ul {
+	list-style-type:disc;
+}
+
+div.ul li {
+	font-weight: bold;
+	padding: 40px;
+	
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+	color: teal;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+	color: orchid;
+}
+
+img {
+	height:100px;
+	width: 100px;
+	border: 0;
+}
+
+div.gallery {
+    margin: 10px;
+	border: 1px solid aliceblue;
+    float: left;
+	align: center;
+    width: 120px;
+	height: 153px;
+	background-color:aliceblue;
+}
+div.gallery img {
+    width: 100%;
+	height: 120px;
+	align: center;
+	
+}
+div.desc {
+	font-size: 13px;
+}	
+footer {
+	background: ivory;
+	padding: 10px;
+	width: 100%;
+	text-align: center; 
+	font-family: arial; 
+	font-size: 14px;
+}
